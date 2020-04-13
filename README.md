@@ -26,3 +26,5 @@ The full process of creating [a "Broken Layout" in HTML and CSS](https://www.you
 
 * SASS (and `VSCode`'s Live SASS Compiler.)
 * "Mobile First" design
+
+Ultimately, while this had some interesting information and ideas, I found the actual layout which was being implemented to be incredibly fiddly and ugly. There seemed to be a lot of markup which existed specifically for design elements, and the CSS file (compiled via the SCSS file, which is cool!) was very much specific to this one page. Really not applicable to likely other pages on the site.
